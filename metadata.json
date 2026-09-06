@@ -1,0 +1,9 @@
+{
+  "name": "HR Insight Pro",
+  "description": "A comprehensive HR dashboard and employee portal featuring AI-driven sentiment analysis, automated onboarding/offboarding, and role-based UX for modern workforce management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
